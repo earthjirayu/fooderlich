@@ -20,4 +20,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/mag.jpg
-    - assets/images/mag2.jpg
+    - assets/images/mag2.webp

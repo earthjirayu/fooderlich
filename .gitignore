@@ -1,0 +1,48 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.idea/
+.android/
+.ios/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.pubspec.lock
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Generated plugin registrant
+**/generated_plugin_registrant.*
+
+# CMake build
+cmake_build/
+
+# Linux build
+**/cmake/
+
+# Coverage
+coverage/
+
+# Logs
+*.log
+
+# Other
+packages
+.idea/
+
+# End of file
